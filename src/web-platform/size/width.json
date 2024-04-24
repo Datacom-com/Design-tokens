@@ -1,0 +1,10 @@
+{
+    "max-width": {
+        "desktop": {
+            "value": "1256px"
+        },
+        "mobile": {
+            "value": "100%"
+        }
+    }
+}
