@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Wed, 24 Apr 2024 08:46:22 GMT
+// Generated on Mon, 08 Jul 2024 08:27:19 GMT
 //
 
 import UIKit
@@ -30,7 +30,7 @@ public enum StyleDictionaryColor {
     public static let admiralBluePlus3 = UIColor(red: 0.000, green: 0.016, blue: 0.098, alpha:1)
     public static let candyPinkBase = UIColor(red: 1.000, green: 0.000, blue: 0.439, alpha:1)
     public static let candyPinkMinus1 = UIColor(red: 1.000, green: 0.200, blue: 0.553, alpha:1)
-    public static let candyPinkMinus2 = UIColor(red: 1.000, green: 0.502, blue: 0.733, alpha:1)
+    public static let candyPinkMinus2 = UIColor(red: 1.000, green: 0.502, blue: 0.722, alpha:1)
     public static let candyPinkMinus3 = UIColor(red: 1.000, green: 0.800, blue: 0.886, alpha:1)
     public static let candyPinkPlus1 = UIColor(red: 0.800, green: 0.000, blue: 0.353, alpha:1)
     public static let candyPinkPlus2 = UIColor(red: 0.502, green: 0.000, blue: 0.220, alpha:1)

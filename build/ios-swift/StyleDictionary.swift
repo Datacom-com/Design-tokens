@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 24 Apr 2024 08:46:22 GMT
+// Generated on Mon, 08 Jul 2024 08:27:19 GMT
 //
 
 
@@ -31,7 +31,7 @@ public class StyleDictionary {
     public static let colorAdmiralBluePlus3 = UIColor(red: 0.000, green: 0.016, blue: 0.098, alpha:1)
     public static let colorCandyPinkBase = UIColor(red: 1.000, green: 0.000, blue: 0.439, alpha:1)
     public static let colorCandyPinkMinus1 = UIColor(red: 1.000, green: 0.200, blue: 0.553, alpha:1)
-    public static let colorCandyPinkMinus2 = UIColor(red: 1.000, green: 0.502, blue: 0.733, alpha:1)
+    public static let colorCandyPinkMinus2 = UIColor(red: 1.000, green: 0.502, blue: 0.722, alpha:1)
     public static let colorCandyPinkMinus3 = UIColor(red: 1.000, green: 0.800, blue: 0.886, alpha:1)
     public static let colorCandyPinkPlus1 = UIColor(red: 0.800, green: 0.000, blue: 0.353, alpha:1)
     public static let colorCandyPinkPlus2 = UIColor(red: 0.502, green: 0.000, blue: 0.220, alpha:1)
