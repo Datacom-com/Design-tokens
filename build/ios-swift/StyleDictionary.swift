@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Mon, 08 Jul 2024 08:27:19 GMT
+// Generated on Fri, 04 Apr 2025 03:13:50 GMT
 //
 
 
@@ -104,6 +104,7 @@ public class StyleDictionary {
     public static let colorLightBlueBase = UIColor(red: 0.502, green: 0.627, blue: 0.973, alpha:1)
     public static let colorLightGrey = UIColor(red: 0.855, green: 0.855, blue: 0.855, alpha:1)
     public static let colorMidnightBlueBase = UIColor(red: 0.000, green: 0.039, blue: 0.078, alpha:1)
+    public static let colorMidnightBlueCoral1 = UIColor(red: 0.000, green: 0.039, blue: 0.078, alpha:1)
     public static let colorMidnightBlueMinus1 = UIColor(red: 0.102, green: 0.137, blue: 0.173, alpha:1)
     public static let colorMidnightBlueMinus3 = UIColor(red: 0.502, green: 0.522, blue: 0.541, alpha:1)
     public static let colorMidnightBlueMinus4 = UIColor(red: 0.702, green: 0.714, blue: 0.725, alpha:1)

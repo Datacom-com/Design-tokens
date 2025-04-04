@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Mon, 08 Jul 2024 08:27:19 GMT
+// Generated on Fri, 04 Apr 2025 03:13:50 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -15,6 +15,7 @@ ColorMidnightBlueMinus1,
 ColorMidnightBlueMinus3,
 ColorMidnightBlueMinus4,
 ColorMidnightBlueMinus5,
+ColorMidnightBlueCoral1,
 ColorRoyalPurpleLight,
 ColorRoyalPurpleDeep,
 ColorAdmiralBlueBase,

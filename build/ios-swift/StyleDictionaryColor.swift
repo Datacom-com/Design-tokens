@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Mon, 08 Jul 2024 08:27:19 GMT
+// Generated on Fri, 04 Apr 2025 03:13:50 GMT
 //
 
 import UIKit
@@ -103,6 +103,7 @@ public enum StyleDictionaryColor {
     public static let lightBlueBase = UIColor(red: 0.502, green: 0.627, blue: 0.973, alpha:1)
     public static let lightGrey = UIColor(red: 0.855, green: 0.855, blue: 0.855, alpha:1)
     public static let midnightBlueBase = UIColor(red: 0.000, green: 0.039, blue: 0.078, alpha:1)
+    public static let midnightBlueCoral1 = UIColor(red: 0.000, green: 0.039, blue: 0.078, alpha:1)
     public static let midnightBlueMinus1 = UIColor(red: 0.102, green: 0.137, blue: 0.173, alpha:1)
     public static let midnightBlueMinus3 = UIColor(red: 0.502, green: 0.522, blue: 0.541, alpha:1)
     public static let midnightBlueMinus4 = UIColor(red: 0.702, green: 0.714, blue: 0.725, alpha:1)

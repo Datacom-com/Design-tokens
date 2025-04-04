@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 08 Jul 2024 08:27:19 GMT
+  Generated on Fri, 04 Apr 2025 03:13:50 GMT
 -->
 <resources>
   <color name="color_midnight_blue_base">#ff000a14</color>
@@ -10,6 +10,7 @@
   <color name="color_midnight_blue_minus_3">#ff80858a</color>
   <color name="color_midnight_blue_minus_4">#ffb3b6b9</color>
   <color name="color_midnight_blue_minus_5">#ffe6e7e8</color>
+  <color name="color_midnight_blue_coral_1">#ff000a14</color>
   <color name="color_royal_purple_light">#ffb888ff</color>
   <color name="color_royal_purple_deep">#ff6b2fc6</color>
   <color name="color_admiral_blue_base">#ff00167f</color>
