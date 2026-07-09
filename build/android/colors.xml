@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 04 Apr 2025 03:13:50 GMT
+  Generated on Thu, 09 Jul 2026 02:55:20 GMT
 -->
 <resources>
   <color name="color_midnight_blue_base">#ff000a14</color>
@@ -10,7 +10,7 @@
   <color name="color_midnight_blue_minus_3">#ff80858a</color>
   <color name="color_midnight_blue_minus_4">#ffb3b6b9</color>
   <color name="color_midnight_blue_minus_5">#ffe6e7e8</color>
-  <color name="color_midnight_blue_coral_1">#ff000a14</color>
+  <color name="color_midnight_blue_coral_1">#ffff5733</color>
   <color name="color_royal_purple_light">#ffb888ff</color>
   <color name="color_royal_purple_deep">#ff6b2fc6</color>
   <color name="color_admiral_blue_base">#ff00167f</color>
@@ -24,6 +24,7 @@
   <color name="color_electric_blue_minus_1">#ff3366f3</color>
   <color name="color_electric_blue_minus_2">#ff80a0fb</color>
   <color name="color_electric_blue_minus_3">#ffccd9fc</color>
+  <color name="color_electric_blue_minus_4">#fff2f4ff</color>
   <color name="color_electric_blue_plus_1">#ff0022cb</color>
   <color name="color_electric_blue_plus_2">#ff00167f</color>
   <color name="color_electric_blue_plus_3">#ff000933</color>
@@ -107,7 +108,7 @@
   <color name="color_extra_light_blue_40">#fff5f9ff</color>
   <color name="color_extra_light_blue_60">#ffeff6ff</color>
   <color name="color_extra_light_blue_80">#ffeaf3ff</color>
-  <color name="color_extra_light_blue_base">#ffccd9fc</color>
+  <color name="color_extra_light_blue_base">#fff2f4ff</color>
   <color name="color_cobalt_blue_20">#ffd1daf0</color>
   <color name="color_cobalt_blue_40">#ffa3b6e0</color>
   <color name="color_cobalt_blue_60">#ff7692d2</color>

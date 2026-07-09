@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 04 Apr 2025 03:13:50 GMT
+ * Generated on Thu, 09 Jul 2026 02:55:20 GMT
  */
 
 :root {
@@ -9,7 +9,7 @@
   --color-midnight-blue-minus-3: #80858a;
   --color-midnight-blue-minus-4: #b3b6b9;
   --color-midnight-blue-minus-5: #e6e7e8;
-  --color-midnight-blue-coral-1: #000a14;
+  --color-midnight-blue-coral-1: #ff5733;
   --color-royal-purple-light: #b888ff;
   --color-royal-purple-deep: #6b2fc6;
   --color-admiral-blue-base: #00167f;
@@ -23,6 +23,7 @@
   --color-electric-blue-minus-1: #3366f3;
   --color-electric-blue-minus-2: #80a0fb;
   --color-electric-blue-minus-3: #ccd9fc;
+  --color-electric-blue-minus-4: #f2f4ff;
   --color-electric-blue-plus-1: #0022cb;
   --color-electric-blue-plus-2: #00167f;
   --color-electric-blue-plus-3: #000933;
@@ -106,7 +107,7 @@
   --color-extra-light-blue-40: #f5f9ff;
   --color-extra-light-blue-60: #eff6ff;
   --color-extra-light-blue-80: #eaf3ff;
-  --color-extra-light-blue-base: #ccd9fc;
+  --color-extra-light-blue-base: #f2f4ff;
   --color-cobalt-blue-20: #d1daf0;
   --color-cobalt-blue-40: #a3b6e0;
   --color-cobalt-blue-60: #7692d2;

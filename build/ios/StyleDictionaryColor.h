@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Fri, 04 Apr 2025 03:13:50 GMT
+// Generated on Thu, 09 Jul 2026 02:55:20 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -29,6 +29,7 @@ ColorElectricBlueBase,
 ColorElectricBlueMinus1,
 ColorElectricBlueMinus2,
 ColorElectricBlueMinus3,
+ColorElectricBlueMinus4,
 ColorElectricBluePlus1,
 ColorElectricBluePlus2,
 ColorElectricBluePlus3,

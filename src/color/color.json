@@ -64,6 +64,9 @@
       "minus3": {
         "value": "#CCD9FC"
       },
+      "minus4": {
+        "value": "#F2F4FF"
+      },
       "plus1": {
         "value": "#0022CB"
       },
@@ -328,7 +331,7 @@
     },
     "extra-light-blue": {
       "base": {
-        "value": "#CCD9FC"
+        "value": "#F2F4FF"
       },
       "80": {
         "value": "#EAF3FF"
