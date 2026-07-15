@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Fri, 04 Apr 2025 03:13:50 GMT
+// Generated on Thu, 09 Jul 2026 02:55:20 GMT
 //
 
 
@@ -72,6 +72,7 @@ public class StyleDictionary {
     public static let colorElectricBlueMinus1 = UIColor(red: 0.200, green: 0.400, blue: 0.953, alpha:1)
     public static let colorElectricBlueMinus2 = UIColor(red: 0.502, green: 0.627, blue: 0.984, alpha:1)
     public static let colorElectricBlueMinus3 = UIColor(red: 0.800, green: 0.851, blue: 0.988, alpha:1)
+    public static let colorElectricBlueMinus4 = UIColor(red: 0.949, green: 0.957, blue: 1.000, alpha:1)
     public static let colorElectricBluePlus1 = UIColor(red: 0.000, green: 0.133, blue: 0.796, alpha:1)
     public static let colorElectricBluePlus2 = UIColor(red: 0.000, green: 0.086, blue: 0.498, alpha:1)
     public static let colorElectricBluePlus3 = UIColor(red: 0.000, green: 0.035, blue: 0.200, alpha:1)
@@ -87,7 +88,7 @@ public class StyleDictionary {
     public static let colorExtraLightBlue40 = UIColor(red: 0.961, green: 0.976, blue: 1.000, alpha:1)
     public static let colorExtraLightBlue60 = UIColor(red: 0.937, green: 0.965, blue: 1.000, alpha:1)
     public static let colorExtraLightBlue80 = UIColor(red: 0.918, green: 0.953, blue: 1.000, alpha:1)
-    public static let colorExtraLightBlueBase = UIColor(red: 0.800, green: 0.851, blue: 0.988, alpha:1)
+    public static let colorExtraLightBlueBase = UIColor(red: 0.949, green: 0.957, blue: 1.000, alpha:1)
     public static let colorExtraLightGrey = UIColor(red: 0.941, green: 0.941, blue: 0.941, alpha:1)
     public static let colorGatewayGoldBase = UIColor(red: 0.996, green: 0.702, blue: 0.004, alpha:1)
     public static let colorGatewayGoldMinus1 = UIColor(red: 0.996, green: 0.761, blue: 0.204, alpha:1)
@@ -104,7 +105,7 @@ public class StyleDictionary {
     public static let colorLightBlueBase = UIColor(red: 0.502, green: 0.627, blue: 0.973, alpha:1)
     public static let colorLightGrey = UIColor(red: 0.855, green: 0.855, blue: 0.855, alpha:1)
     public static let colorMidnightBlueBase = UIColor(red: 0.000, green: 0.039, blue: 0.078, alpha:1)
-    public static let colorMidnightBlueCoral1 = UIColor(red: 0.000, green: 0.039, blue: 0.078, alpha:1)
+    public static let colorMidnightBlueCoral1 = UIColor(red: 1.000, green: 0.341, blue: 0.200, alpha:1)
     public static let colorMidnightBlueMinus1 = UIColor(red: 0.102, green: 0.137, blue: 0.173, alpha:1)
     public static let colorMidnightBlueMinus3 = UIColor(red: 0.502, green: 0.522, blue: 0.541, alpha:1)
     public static let colorMidnightBlueMinus4 = UIColor(red: 0.702, green: 0.714, blue: 0.725, alpha:1)
